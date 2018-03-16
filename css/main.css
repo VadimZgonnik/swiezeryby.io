@@ -11,7 +11,7 @@ body {
 .header {
     width: 100%;
     min-width: 1200px;
-    background-image: url(img/header_bg.png);
+    background-image: url(img/headerbg.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -142,7 +142,7 @@ body {
     width: 100%;
     min-width: 1200px;
     height: 100vh;
-    background-image: url(img/carosel_bg.jpg);
+    background-image: url(img/caroselbg.jpg);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
